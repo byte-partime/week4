@@ -68,16 +68,6 @@
     * Code on Demand
 * The same endpoint can be used multiple times. The HTTP Verb / Method is important in telling the application what the type of request is
 
-
-| HTTP Method | Action                        | Example URI                      |
-|-------------|-------------------------------|----------------------------------|
-| GET         | Grab data for ALL items       | http://movies.com/api/movies     |
-| GET         | Grab data for a specific item | http://movies.com/api/movies/898 |
-| POST        | Create a new item             | http://movies.com/api/movies     |
-| PUT         | Update an existing item       | http://movies.com/api/movies/898 |
-| DELETE      | Delete a specific item        | http://movies.com/api/movies/898 |
-
-
 ##### Resources
 
 
